@@ -15,7 +15,7 @@
       "value":""
     },
     "localAddressPrefix":{
-      "value":"10.0.0.0/8"
+      "value":"10.128.0.0/16"
     },
     "virtualNetworkName":{
       "value":"azureVnet"
