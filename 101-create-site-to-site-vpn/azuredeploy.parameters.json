@@ -3,10 +3,10 @@
   "contentVersion":"1.0.0.0",
   "parameters":{
     "location":{
-      "value":"Australia East"
+      "value":"Southeast Asia"
     },
     "vpnType":{
-      "value":"PolicyBased"
+      "value":"RouteBased"
     },
     "localGatewayName":{
       "value":""
@@ -15,7 +15,7 @@
       "value":""
     },
     "localAddressPrefix":{
-      "value":"10.128.0.0/16"
+      "value":"10.0.0.0/8"
     },
     "virtualNetworkName":{
       "value":"azureVnet"
