@@ -6,7 +6,7 @@
       "value":"Southeast Asia"
     },
     "vpnType":{
-      "value":"RouteBased"
+      "value":"PolicyBased"
     },
     "localGatewayName":{
       "value":""
